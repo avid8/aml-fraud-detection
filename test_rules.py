@@ -1,7 +1,3 @@
-"""
-تست‌های Rule-Based Engine
-"""
-
 import pytest
 from rules import (
     RuleEngine, AccountType, AlertSeverity, RuleCode,
