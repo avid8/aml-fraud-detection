@@ -1,8 +1,3 @@
-"""
-Integration Test — کل pipeline از ورودی تا خروجی
-نیاز به Neo4j و Kafka داره
-"""
-
 import json
 import time
 import pytest
