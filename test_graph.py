@@ -1,8 +1,3 @@
-"""
-تست‌های لایه گراف هویت
-از Neo4j واقعی استفاده نمی‌کنه — همه چیز mock شده
-"""
-
 import pytest
 from unittest.mock import MagicMock, patch, call
 from graph import AMLGraph, GraphConfig
