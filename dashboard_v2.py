@@ -1,7 +1,3 @@
-"""
-AML Dashboard v2 — طراحی حرفه‌ای
-"""
-
 import asyncio
 import json
 import random
