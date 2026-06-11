@@ -1,7 +1,3 @@
-"""
-تست‌های Risk Engine
-"""
-
 import pytest
 from unittest.mock import MagicMock
 from rules import RuleResult, AccountType, Alert, AlertSeverity, RuleCode
