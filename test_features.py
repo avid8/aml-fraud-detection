@@ -1,8 +1,3 @@
-"""
-تست‌های لایه Feature Extraction
-از PySpark local mode استفاده می‌کنه — نیازی به Kafka نیست
-"""
-
 import pytest
 from datetime import datetime, timezone
 from pyspark.sql import SparkSession
